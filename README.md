@@ -1,0 +1,2 @@
+# FSDS-GENERATIVE-AI-AGENTIC-AI-AI-EXPERT-DATASCIENTIC-FOR-BFSI-DOMAIN-ACROOS-GLOBLA-MARKET
+Expert Data Scientist specializing in the BFSI (Banking, Financial Services, and Insurance) domain with hands-on expertise in AI-driven solutions, automation, and intelligent systems across the global market. Passionate about building end-to-end data and AI solutions — from data engineering and model development to deployment and optimization.
